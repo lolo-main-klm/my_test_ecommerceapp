@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083911099747",
+    "project_id": "my-test-application-5c511",
+    "storage_bucket": "my-test-application-5c511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083911099747:android:e62ab509d496e3b9176f56",
+        "android_client_info": {
+          "package_name": "com.ahmetozaydin.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDS2Y7-HWAwMpaMy2WPUWE4suH3f8Bf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
